@@ -7,11 +7,11 @@
     <div class="noticias">
         <div class="noticia">
             <h2>Noticia 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Li Peng, vicepresidente sénior corporativo y presidente de ventas y servicios TIC de Huawei, pronunció su discurso en Huawei GITEX 2024: estamos prosperando juntos en la era inteligente</p>
         </div>
         <div class="noticia">
             <h2>Noticia 2</h2>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Ministerio TIC propone la creación de un modelo de IA para el control fiscal en Colombia</p>
         </div>
     </div>
     <div class="buscador">
