@@ -2,7 +2,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #f4f4f4;
+
 	color: #333;
 }
 
@@ -111,7 +111,7 @@ p {
 }
 
 .noticia {
-	background-color: #fff;
+	background-color: #d4d4d4;
 	margin: 20px 0;
 	padding: 20px;
 	border-radius: 10px;
@@ -124,6 +124,8 @@ p {
 }
 
 .buscador {
+	background: url('../img/fondo.jpg') no-repeat center center fixed;
+	background-size: cover;
 	flex: 1;
 	background-color: #fff;
 	padding: 20px;
@@ -133,7 +135,7 @@ p {
 }
 
 .buscador h2 {
-	color: #405fec;
+	color: hsl(228, 38%, 95%);
 	text-align: center;
 }
 
@@ -152,8 +154,8 @@ p {
 }
 
 .buscador input[type='submit'] {
-	background-color: #405fec;
-	color: #fff;
+	background-color: #e9e9ec;
+	color: #000000;
 	border: none;
 	padding: 10px 20px;
 	cursor: pointer;
